@@ -32,7 +32,7 @@ app.get('*', (req, res) => {
 
 
 
-app.use(routes);
+//app.use(routes);
 /*
 const startApolloServer = async (typeDefs, resolvers) => {
   await server.start();
