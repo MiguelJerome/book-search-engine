@@ -1,5 +1,5 @@
 # Book Search Engine
-![Book Search Engine]() 
+![Book Search Engine](./img/Screenshot%202022-10-10%20084356.png) 
 
 ## Table of Contents
 * [Book Search Engine](#Book-Search-Engine)
@@ -25,8 +25,8 @@ NPM package requires for this project are :
 
 ## Contribution Guidelines
 * This is a final product that is ready to be used.
-* [Book Search Engine Git Hub](https://github.com/MiguelJerome/React-PortfolioNew)
-* [Book Search Engine Deployment](https://enigmatic-ridge-82962.herokuapp.com/)
+* [Book Search Engine Git Hub](https://github.com/MiguelJerome/book-search-engine)
+* [Book Search Engine Deployment](https://evening-sea-03011.herokuapp.com/)
 
 ## Test Instructions
 * This Book Search Engine works is also ready to be used.
