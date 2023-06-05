@@ -13,6 +13,8 @@ const server = new ApolloServer({
   typeDefs,
   resolvers,
   context: authMiddleware,
+  cache: "bounded", // Add this line to enable a bounded cache
+  // Alternatively, you can use persistedQueries: false
 });
 
 const app = express();
